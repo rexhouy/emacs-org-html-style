@@ -10,6 +10,7 @@ body {
 }
 
 h1 {
+    color: #375EAB;
     text-transform: uppercase;
     margin: 0;
     font-size: 300%;
@@ -17,8 +18,11 @@ h1 {
     border-bottom: 1px solid #ccc;
 }
 
+h2 {
+    background: #E0EBF5;
+}
 h2, h3, h4, h5 {
-    border-bottom: 1px solid #ddd;
+    color: #375EAB;
 }
 
 #content {
@@ -59,7 +63,7 @@ a {
     color: #777;
 }
 #table-of-contents ul a:hover {
-    border-left: 2px solid #ccc;
+    border-left: 2px solid #E0EBF5;
     color: #333;
 }
 
@@ -67,7 +71,7 @@ a {
     position: static;
 }
 #text-table-of-contents a.active {
-    border-left: 2px solid #b00;
+    border-left: 2px solid  #375EAB;
     color: #333;
 }
 #text-table-of-contents.top {
@@ -117,7 +121,7 @@ a {
 }
 
 .outline-2 table tbody tr:hover {
-    background: #efefef;
+    background:  #E0EBF5;
 }
 
 .outline-2 table td {
