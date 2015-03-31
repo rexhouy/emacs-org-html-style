@@ -1,6 +1,6 @@
 /**
- * This is a menu actives like the one in http://getbootstrap.com/components/
- * These code  works with emacs org-mode generated menu html.
+ * This is a menu performs like the one at http://getbootstrap.com/components/
+ * These code  works with emacs org-mode generated html.
  *
  * author:    Hou Yu
  * license:   Licensed under GNU GENERAL PUBLIC LICENSE
